@@ -25,7 +25,7 @@ listen <port> <options>
         listen 443 http3 reuseport; (this is experimental!)
 ```
 
-header modifcations:
+header modifications:
 ```nginx
 add_header <header> <values>
         add_header Alt-svc '$http3=":<port>"; ma=<value>'; (this is experimental!)

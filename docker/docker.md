@@ -2,7 +2,7 @@
 **Docker** is a set of platform as a service (PaaS) products that use OS-level virtualization to deliver software in packages called _containers_. The service has both free and premium tiers. The software that hosts the containers is called **Docker Engine**.
 
 Project Homepage: [Home - Docker](https://www.docker.com/)
-Documentation: [Docker Documentation | Docker Documentation](https://docs.docker.com/)
+Documentation: [Docker Documentation](https://docs.docker.com/)
 
 ---
 ## Installation

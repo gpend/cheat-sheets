@@ -1,6 +1,6 @@
 # Christian's "Cheat-Sheets"
 
-Hi, there! 👋
+Hi, there!  👋
 
 I’m Christian, a 35 year-old tech enthusiast from Germany, and I love to inspire and educate people in IT.
 
