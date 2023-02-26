@@ -74,7 +74,7 @@ Inline `code` has `back-ticks around` it.
 ```
 
 #### Blocks of Code
-<pre>
+
 ```javascript
 var s = "JavaScript syntax highlighting";
 alert(s);
@@ -89,7 +89,7 @@ print s
 No language indicated, so no syntax highlighting. 
 But let's throw in a <b>tag</b>.
 ```
-</pre>
+
 
 ### Tables
 
@@ -109,11 +109,11 @@ To create a taksk lsit start line with square brackets with an empty space.
 Ex: [ <space> ] and add text for task.
 To check the task replace the space between the bracket with "x".
 
-```markdown
-[x] Write the post
-[ ] Update the website
-[ ] Contact the user
-```
+
+- [x] Write the post
+- [ ] Update the website
+- [ ] Contact the user
+
 
 ## Reference
 

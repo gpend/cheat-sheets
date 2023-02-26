@@ -1,0 +1,4 @@
+- [ ] go through code for paperless to find input and output folders
+- [ ] get Jim his photo
+- [ ] get Katrina her story point number
+- [ ] 
